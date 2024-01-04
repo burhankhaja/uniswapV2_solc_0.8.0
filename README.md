@@ -20,7 +20,7 @@
   - assembly based chainId updation to *block.chainid*
   - removed duplicate interface declarations to avoid inheritance conflicts
   - Adding *override* identifier to overriding functions, *not required in older versions*
-  - changed type conversion of uint(-1) to type(uint256).max, *though you could also change it to uint(int(-1))*
+  - changed type conversion of uint(-1) to type(uint256).max, *though you could also change it to uint(int(-1))* <br>
 **`I don't guarentee i have only changed these components, may be i have forgotten to mention so I take no responsibility`**
 
 ## FOLLOW ME ON X
