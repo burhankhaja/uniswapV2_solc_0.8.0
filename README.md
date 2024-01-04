@@ -10,7 +10,7 @@
 - I was learning indepth about uniswapV2 but I had lot of issues while unit testing original [**`v2-core`**](https://github.com/Uniswap/v2-core/tree/master/contracts) using foundry.
 - There were lot of things constantly breaking. Even a small change led to chain of whole different errors.
 - So i thought why not refactor it to higher versions like 0.8.0 to make it easily testable. <br>
-**`The only goal is to make it as a tool for learning uniswapv2 easier using foundry. Do not use these contracts in production, there can be lot of covert bugs, may be shadowed function type issues have arisen due to refactoring, so i don't guarentee anything.`**
+**`The only goal is to make it as a tool for learning uniswapv2 easier using foundry. Do not use these contracts in production, there can be lot of covert bugs, one of them may be shadowed function type issues have arisen due to refactoring, so i don't guarentee anything.`**
 
 ## About
 
