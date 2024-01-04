@@ -21,5 +21,6 @@ So i thought why not refactor it to higher versions like 0.8.0 to make it easily
   - changed type conversion of uint(-1) to type(uint256).max, *though you could also change it to uint(int(-1))*
   - **i don't guarentee i have only changed these components, may be i have forgotten to mention so it is your responsibility to use it on your risk**
 
-## FOLLOW ME
-**twitter**
+## FOLLOW ME ON X
+[**`@burhan_khaja`**](https://twitter.com/burhan_khaja)
+
